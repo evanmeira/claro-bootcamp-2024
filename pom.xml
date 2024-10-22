@@ -76,7 +76,7 @@
          			<archive>
             			<manifest>
               				<addClasspath>true</addClasspath>
-              				<mainClass>dio.me.Application</mainClass>
+              				<mainClass>me.dio.Application</mainClass>
             			</manifest>
       				</archive>
         		</configuration>
